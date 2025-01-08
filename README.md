@@ -3,7 +3,7 @@
 
 # About me ⚡:
 
-## I currently work at Companhia Melhoramentos Norte do Paraná as Tchinical Support and I'm interested in the programming area!
+## I currently work at Companhia Melhoramentos Norte do Paraná as Techinical Support and I'm interested in the programming area!
 ## Nice to meet you!
 
 # I'm learnig:
